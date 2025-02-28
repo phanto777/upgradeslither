@@ -1,3 +1,3 @@
 var script = document.createElement('script');
-script.src = 'https://pastebin.com/raw/YOUR_SCRIPT_URL';
+script.src = 'https://phanto777.github.io/upgradeslither/';
 document.body.appendChild(script);
